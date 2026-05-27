@@ -1,0 +1,64 @@
+[
+  {
+    "output": "# Marathon Training Nutrition Plan\n\n## Daily Caloric Target: 3000-3500 calories\n\n### Macronutrient Breakdown\n- **Carbohydrates: 55-60%** (410-525g) \u2013 fuel for endurance\n- **Protein: 15-20%** (113-175g) \u2013 recovery and muscle maintenance\n- **Fat: 20-25%** (67-97g) \u2013 sustained energy\n\n---\n\n## Sample Daily Structure\n\n### Breakfast (600-700 cal)\n- Oatmeal with banana, berries, honey\n- Whole grain toast with almond butter\n- Orange juice or sports drink\n\n### Mid-Morning Snack (300-400 cal)\n- Energy bar, dried fruit, or bagel with jam\n- Electrolyte drink\n\n### Lunch (700-800 cal)\n- Lean protein (chicken/fish): 150g\n- Brown rice or pasta: 1-1.5 cups cooked\n- Vegetables with olive oil\n- Fruit\n\n### Pre-Workout Snack (200-300 cal)\n- Banana with honey or sports drink\n- Light, easily digestible carbs only\n\n### Dinner (700-800 cal)\n- Lean protein: 150g\n- Sweet potato or whole grains\n- Vegetables\n- Healthy fat source\n\n### Evening Snack (200 cal)\n- Greek yogurt, nuts, or protein smoothie\n\n---\n\n## Hydration Strategy\n- **Daily:** 3-4 liters water\n- **During runs >90 min:** 6-8% carb sports drinks\n- **Post-run:** Electrolyte replacement + 20g protein within 30 min\n\n**Adjust portions based on training intensity and energy levels.**",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "178 cm",
+        "weight": "68 kg",
+        "goal": "Marathon training - high-endurance athlete requiring 3000+ calories with carbohydrate loading and strategic hydration",
+        "restrictions": "None"
+      },
+      "solution_criteria": [
+        "Meal plan totals 3000+ calories with emphasis on carbohydrates (55-65% of total intake)",
+        "Includes 4-5 eating occasions with hydration timing specified before, during, and after training",
+        "Compact format with clear meal times and portion sizes suitable for single day"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+      "scenario": "Testing with a high-endurance athlete (marathon runner) requiring 3000+ calories with emphasis on carbohydrate loading and hydration timing throughout the day"
+    },
+    "score": 7,
+    "reasoning": "The solution meets all three mandatory requirements: it includes daily caloric total (3000-3500), macronutrient breakdown (55-60% carbs, 15-20% protein, 20-25% fat), and meals with foods and approximate portions across 6 eating occasions with hydration timing. However, it falls short of the secondary criteria by lacking specific meal times and exact portion sizes. The meal plan is presented as a template rather than a concrete single-day example with verified caloric totals. While the guidance is sound and practical, the lack of specificity prevents this from being a fully actionable 1-day meal plan that an athlete could immediately follow."
+  },
+  {
+    "output": "# Nutrition Plan for Powerlifting\n\n## Caloric & Macro Targets\n- **Daily calories**: ~3,000-3,300 kcal (slight surplus for muscle gain)\n- **Protein**: 170-190g (2.0-2.2g per kg bodyweight)\n- **Carbs**: 375-450g (fuel for heavy training)\n- **Fats**: 85-110g (hormone production)\n\n## Protein Sources (Lactose-Free)\n- Chicken, turkey, lean beef\n- Fish & salmon (omega-3 bonus)\n- Eggs\n- Plant-based: lentils, chickpeas, tofu\n- **Protein powder**: Whey isolate or plant-based alternatives\n\n## Carbohydrates\n- Rice, oats, potatoes, sweet potatoes\n- Whole grain bread & pasta\n- Fruits (bananas, berries)\n- Quinoa\n\n## Fats\n- Olive oil, avocado oil\n- Nuts & seeds\n- Fatty fish\n- Avocados\n\n## Dairy Alternatives (if needed)\n- Lactose-free milk\n- Oat/almond milk\n- Fortified plant-based options\n\n## Meal Timing Tips\n- Eat 1-2 hours before training\n- Carbs + protein post-workout (within 2 hours)\n- Consistent meal spacing (every 3-4 hours)\n\n**Consider consulting a sports dietitian** for a personalized plan tailored to your specific training schedule.",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "180 cm",
+        "weight": "85 kg",
+        "goal": "Maximize strength and muscle gains for powerlifting competition",
+        "restrictions": "Lactose intolerant"
+      },
+      "solution_criteria": [
+        "Meal plan contains exactly 4-5 meals with protein distributed across each meal (minimum 30g per meal)",
+        "Includes specific pre-workout meal (1-2 hours before) and post-workout meal (within 30-60 minutes after) with appropriate macronutrient timing",
+        "Total daily protein intake aligns with strength athlete needs (approximately 1.7-2.2g per kg bodyweight)",
+        "All food items accommodate lactose intolerance restriction"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+      "scenario": "Testing with a strength/power athlete (weightlifter) needing precise protein distribution across meals and specific pre/post-workout nutrition windows"
+    },
+    "score": 2,
+    "reasoning": "The solution fails to meet all three mandatory requirements. While it correctly identifies appropriate macro targets and addresses the lactose intolerance restriction, it does not deliver what was explicitly requested: a compact, concise 1-day meal plan with specific meals, portions, timing, and exact foods. Instead, it provides general nutritional guidance and food categories. The task explicitly asks for a meal plan (implying structured meals with specifics), and the criteria require 4-5 meals with minimum 30g protein each, specific pre/post-workout meals with timing, and a daily caloric total with macronutrient breakdown. The solution provides none of these concrete details."
+  },
+  {
+    "output": "# Nutrition Plan for Vegan Soccer Player\n\n## Daily Calorie & Macro Targets\n- **Calories**: ~2,400-2,600 (adjust based on training intensity)\n- **Protein**: 110-130g daily (1.5-1.8g per kg body weight)\n- **Carbs**: 300-350g (fuel for performance)\n- **Fats**: 65-75g (hormone & joint health)\n\n## Key Foods by Category\n\n### Protein Sources (aim for variety)\n- Legumes: lentils, chickpeas, black beans, tofu, tempeh\n- Grains: quinoa, buckwheat, whole wheat\n- Nuts/seeds: hemp seeds, pumpkin seeds, almonds\n- Plant-based protein powder (pea, rice, or blend)\n\n### Carbs (pre/post-training)\n- Whole grains: brown rice, oats, whole wheat pasta\n- Fruits: bananas, berries, dates\n- Sweet potatoes, regular potatoes\n\n### Healthy Fats\n- Avocado, olive oil, coconut oil\n- Nuts, seeds, nut butters\n- Flax/chia seeds\n\n## Sample Daily Timing\n- **Breakfast**: Oatmeal + banana + almond butter + seeds\n- **Pre-training**: Banana + dates or rice cakes\n- **Post-training**: Smoothie (protein powder, berries, plant milk) + toast\n- **Lunch/Dinner**: Grain + legume + vegetables + healthy fat\n\n**Consider**: B12 supplement or fortified foods (critical for vegans)",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "178",
+        "weight": "72",
+        "goal": "Maintain performance and muscle recovery for soccer training",
+        "restrictions": "Vegan (no animal products)"
+      },
+      "solution_criteria": [
+        "Includes complete protein sources at each meal (legumes, tofu, nuts, seeds, or grains combined)",
+        "Contains iron-rich plant-based foods with vitamin C sources to enhance absorption",
+        "Provides adequate calories and macronutrients for athletic performance",
+        "Meal plan is compact and covers one full day with breakfast, lunch, dinner, and snacks"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+      "scenario": "Testing with a sport-specific dietary restriction scenario (vegan soccer player) requiring complete protein sources and iron-rich alternatives while maintaining performance nutrition"
+    },
+    "score": 3,
+    "reasoning": "The solution provides excellent foundational nutrition guidance with appropriate macro targets and food categories for a vegan athlete. However, it fundamentally fails the mandatory requirements by not delivering: (1) a specific daily caloric total with actual meal examples showing portions that sum to that total, and (2) a concrete one-day meal plan with exact foods, portions, and timing. The 'Sample Daily Timing' section is merely a template structure, not an actual meal plan. While the nutritional science is sound, the deliverable format does not meet the explicit requirement for 'meals with exact foods, portions, and timing.'"
+  }
+]
